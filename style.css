@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0f0f0f;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+}
+.container {
+  padding: 40px;
+}
+.skills span {
+  margin: 5px;
+  padding: 10px 20px;
+  border: 1px solid #0ff;
+  border-radius: 5px;
+  display: inline-block;
+}
+.resume-btn {
+  display: inline-block;
+  margin: 20px;
+  padding: 10px 20px;
+  background: #0ff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.social a {
+  display: inline-block;
+  margin: 10px;
+  color: #0ff;
+  text-decoration: none;
+}
